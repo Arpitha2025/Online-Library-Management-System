@@ -1,0 +1,90 @@
+Diary of a Wimpy Kid
+Jeff Kinney
+Comedy
+102
+1000
+Y
+Beloved
+Morrison
+Drama
+203
+1001
+N
+Prince
+Machiavelli
+Non-Fiction
+66
+1002
+Y
+Little Women
+Louisa May Alcott
+Coming-of-age
+566
+1003
+N
+The Complete Sherlock Holmes
+Arthur Conan Doyle
+Mystery
+405
+1004
+Y
+Persuasion
+Jane Austen
+Drama
+252
+1005
+Y
+Peter Pan
+J.M. Barrie
+Fantasy
+343
+1006
+Y
+Lord of the Flies
+William Golding
+Survival Thriller
+124
+1007
+N
+Life of Pi	
+Yann Martel
+Adventure
+301
+1008
+N
+Odyssey	
+Homer
+Epic Poem
+359
+1009
+N
+Romeo and Juliet	
+Shakespeare
+Romance
+213
+1010
+Y
+The Chronicles of Narnia 2	
+C. S. Lewis
+Adventure
+277
+1011
+Y
+To Kill a Mockingbird		
+Harper Lee
+Coming-of-age
+298
+1012
+N
+Animal Farm	
+George Orwell
+Satire
+443
+1013
+Y
+The Kite Runner		
+Khaled Hosseini
+Drama
+543
+1014
+Y

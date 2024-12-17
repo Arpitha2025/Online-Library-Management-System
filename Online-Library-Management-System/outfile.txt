@@ -1,0 +1,9 @@
+Kate's transaction report: 
+Transactions: The Complete Sherlock Holmes, Persuasion, Tue Dec 17 18:52:56 2024
+, Persuasion
+Balance: 2
+Kate's transaction report: 
+Transactions: The Complete Sherlock Holmes, Persuasion, Tue Dec 17 18:52:56 2024
+, Persuasion, Tue Dec 17 18:54:59 2024
+, Prince
+Balance: 3
